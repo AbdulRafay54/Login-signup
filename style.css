@@ -1,8 +1,5 @@
-                                             
+                                        
                                              /* Login Page */
-
-
-
 
 body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -82,6 +79,11 @@ body {
   font-size: 11px;
   color: #747474;
 }
+.sign-up-label  {
+  margin: 0;
+  font-size: 11px;
+  color: #747474;
+}
 .sign-up-label a {
   text-decoration: none;
   margin: 0;
@@ -132,18 +134,8 @@ body {
   margin-bottom: 1px;
 }
  
-                                             /* Signup Page */
+                                              /* Signup Page */
                                               
-body {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  background-color: #f0f0f0;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
 .form-container {
   width: 90%;
   max-width: 350px;
@@ -250,3 +242,9 @@ body {
   font-size: 18px;
   margin-bottom: 1px;
 }
+
+/* Quiz  */
+
+
+ 
+ 
